@@ -22,6 +22,7 @@ DerivedData
 *.xcuserstate
 .idea/
 *.xcworkspacedata
+*.xcworkspace
 #
 #
 # CocoaPods
