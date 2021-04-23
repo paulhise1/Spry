@@ -21,7 +21,14 @@ DerivedData
 *.ipa
 *.xcuserstate
 .idea/
-!*.xcworkspace/contents.xcworkspacedata
+#
+#
+### SwiftPackageManager ###
+Packages
+.build/
+xcuserdata
+DerivedData/
+*.xcodeproj
 #
 #
 # CocoaPods
